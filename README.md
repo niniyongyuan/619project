@@ -1,5 +1,6 @@
 **15619 Cloud Computing Term Project**
-  **Twitter Data Analytic Web Service**
+
+**Twitter Data Analytic Web Service**
 
 1. Implemented a **Restful Web Service** for Twitter Data Analysis supporting different types of queries
 2. Parsed **200GB** data with MapReduce ETL (extract, transform and load) and stored in MySQL and HBase
